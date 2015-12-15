@@ -1,6 +1,6 @@
-# yo_project
+# React Chat Weather
 
-My **YO** package!!
+React & Flux, SocketIO, NodeJS
 
 ----------------------------------
 ### Table of contents
@@ -30,4 +30,4 @@ $ gulp server
 > Go to http://localhost:1337 or  http://localhost:3000
 
 #### Version
-> 0.0.2
+> 0.0.1
