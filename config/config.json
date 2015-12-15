@@ -1,0 +1,14 @@
+{
+	"dev": {
+		"sass": {
+			"inputCss": "./stylesheets/**/*.scss",
+			"outputCss": "./public/styles"
+		},
+		"js": {
+			"inputJs": "./javascripts/",
+			"inputJsWatch": "./javascripts/**/*.js ",
+			"outputJs": "./public/scripts/"
+		}
+	},
+	"prod": {}
+}
